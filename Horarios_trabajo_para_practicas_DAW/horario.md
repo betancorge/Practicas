@@ -2,7 +2,6 @@
 
 # HORARIO DE TRABAJO
 
-# Horario de Trabajo
  
 | Hora     | Lunes   (Norte)   |          Martes (Norte)    |                  Miércoles (Norte)      |      Jueves (Sur)    |    Viernes (Sur)       |
 |----------|-------------------|------------------------------|-----------------------------------------|----------------------|------------------------|
